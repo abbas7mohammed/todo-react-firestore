@@ -1,0 +1,11 @@
+.navlinks{
+    font-size: 16px;
+    color: snow;
+    text-decoration: none;
+    transition: transform  0.3s ;
+    padding: 15px;
+  }
+  
+  .navlinks:hover{
+    transform : scale(1.3);
+  }
